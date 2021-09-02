@@ -1,9 +1,0 @@
-{
-	"name": "blynchfactory-df",
-	"location": "westus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "4e1224bf-72e7-4098-9ad9-bc2c59e4a374",
-		"tenantId": "e5cb250f-9030-4bea-827d-e4a9974ef851"
-	}
-}
